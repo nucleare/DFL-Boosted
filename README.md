@@ -28,7 +28,7 @@ https://arxiv.org/abs/2005.05535</a>
 More than 95% of deepfake videos are created with DeepFaceLab.
 </table>
 
-<table align="center" border="2">
+<table align="center" border="4">
 
 <tr><td colspan=2 align="center">
   
@@ -36,7 +36,7 @@ More than 95% of deepfake videos are created with DeepFaceLab.
 
 </td></tr>
 
-<tr><td align="left">
+<tr><td colspan=2 align="left">
 This fork of iperov/DeepFaceLab has been created in an effort to switch all cmd line actions with ibconsole with the
 hope of using a distributed computing solution that recruits other machines’ CPU power on a private network in hopes of 
 parallelizing tasks and thereby reduce iteration times.
@@ -51,7 +51,7 @@ parallelizing tasks and thereby reduce iteration times.
 
 </td></tr>
 
-<tr><td align="left">
+<tr><td colspan=2 align="left">
 If all else fails, we will move on to <a href="https://colab.research.google.com/signup">Pro Collab</a> in conjunction
 with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Colab</a>
     </td></tr>
@@ -62,18 +62,18 @@ with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Cola
 
 </td></tr>
 
-<tr><td align="right">
+<tr><td align="left">
 <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/13238439/IBConsole+Command+Line+Options#IBConsoleCommandLineOptions-CommandLineOptions">IBConsole Command Line Options</a>
-</td><td align="left">Table describing the IBConsole.exe command line options</td></tr>
+</td><td align="center">Table describing the IBConsole.exe command line options</td></tr>
 
-<tr><td align="right">
+<tr><td align="left">
 <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/9469970/Using+Submission+Interfaces#UsingSubmissionInterfaces-Example1">Using Submission Interfaces</a>
-</td><td align="left">Describes the general procedure for using Submission Interface</td></tr>
+</td><td align="center">Describes the general procedure for using Submission Interface</td></tr>
   
-<tr><td align="right">
+<tr><td align="left">
 <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842170370/xgSubmit+Command">xgSubmit Commands</a>
-</td><td align="left"><b>Note:</b> Commands specified in the command file are executed independently, and not necessarily in the specified order. In order to create dependencies, use the /group argument in conjunction with the xgWait command in your script.
-
+</td><td align="center"><b>Note:</b> Commands specified in the command file are executed independently, and not necessarily in the specified order. In order to create dependencies, use the /group argument in conjunction with the xgWait command in your script.<br>
+<br>
 .bat files which utilize the "pause" command are to be replaced by the <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842629123/xgWait+Command">xgWait</a> command</td></tr>
 
 </table>
