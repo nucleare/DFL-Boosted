@@ -36,7 +36,7 @@ More than 95% of deepfake videos are created with DeepFaceLab.
 
 </td></tr>
 
-</td><td align="left">
+<tr><td align="left">
 This fork of iperov/DeepFaceLab has been created in an effort to switch all cmd line actions with ibconsole with the
 hope of using a distributed computing solution that recruits other machines’ CPU power on a private network in hopes of 
 parallelizing tasks and thereby reduce iteration times.
@@ -51,9 +51,10 @@ parallelizing tasks and thereby reduce iteration times.
 
 </td></tr>
 
-<p align="left">
+<tr><td align="left">
 If all else fails, we will move on to <a href="https://colab.research.google.com/signup">Pro Collab</a> in conjunction
-with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Colab</a></p>
+with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Colab</a>
+    </td></tr>
 
 <tr><td colspan=2 align="center">
   
