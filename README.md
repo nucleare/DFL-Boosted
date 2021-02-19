@@ -1,4 +1,4 @@
-﻿<table align="center" border="0">
+<table align="center" border="0">
 
 <tr><td colspan=2 align="center">
 
@@ -28,9 +28,9 @@ https://arxiv.org/abs/2005.05535</a>
 More than 95% of deepfake videos are created with DeepFaceLab.
 </table>
 
-<table align="center" border="4">
+<table align="center" style="background-color:#FFFFE0;color:black;border:4px solid #BDB76B;">
 
-<tr><td colspan=2 align="center">
+<tr><td colspan=2 align="center" bgcolor="yellow">
   
 # The "Boosted" Fork
 
@@ -39,13 +39,13 @@ More than 95% of deepfake videos are created with DeepFaceLab.
 <tr><td colspan=2 align="left">
 This fork of iperov/DeepFaceLab has been created in an effort to switch all cmd line actions with ibconsole with the
 hope of using a distributed computing solution that recruits other machines’ CPU power on a private network in hopes of 
-parallelizing tasks and thereby reduce iteration times.
-
+parallelizing tasks and thereby reduce iteration times.<br>
+  <br>
 <i>It is noted that that there is a <b>10.misc) make CPU only.bat</b> which may assist in accomplishing this process due to the
   implied use of idle cores across the network.</i>
   </td></tr>
 
-<tr><td colspan=2 align="center">
+<tr><td colspan=2 align="center" bgcolor="#BDB76B">
   
 ## Backup Plan
 
@@ -56,7 +56,7 @@ If all else fails, we will move on to <a href="https://colab.research.google.com
 with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Colab</a>
     </td></tr>
 
-<tr><td colspan=2 align="center">
+<tr><td colspan=2 align="center" bgcolor="#BDB76B">
   
 ## References
 
@@ -72,7 +72,7 @@ with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Cola
   
 <tr><td align="left">
 <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842170370/xgSubmit+Command">xgSubmit Commands</a>
-</td><td align="center"><b>Note:</b> Commands specified in the command file are executed independently, and not necessarily in the specified order. In order to create dependencies, use the /group argument in conjunction with the xgWait command in your script.<br>
+</td><td align="left"><b>Note:</b> Commands specified in the command file are executed independently, and not necessarily in the specified order. In order to create dependencies, use the /group argument in conjunction with the xgWait command in your script.<br>
 <br>
 .bat files which utilize the "pause" command are to be replaced by the <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842629123/xgWait+Command">xgWait</a> command</td></tr>
 
@@ -303,3 +303,4 @@ V.I. Lenin
 
 
 </table>
+</html>
