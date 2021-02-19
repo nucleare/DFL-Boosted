@@ -27,164 +27,24 @@ https://arxiv.org/abs/2005.05535</a>
 
 More than 95% of deepfake videos are created with DeepFaceLab.
 
-DeepFaceLab is used by such popular youtube channels as
+# The "Boosted" Fork
 
-|![](doc/youtube_icon.png) [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|![](doc/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|
-|---|---|---|
+This fork of iperov/DeepFaceLab has been created in an effort to switch all cmd line actions with ibconsole with the
+hope of using a distributed computing solution that recruits other machines’ CPU power on a private network in hopes of 
+parallelizing tasks and thereby reduce iteration times.
 
-|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|
-|---|---|---|
+## Backup Plan
 
-|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|![](doc/youtube_icon.png) [RepresentUS](https://www.youtube.com/channel/UCRzgK52MmetD9aG8pDOID3g)|![](doc/youtube_icon.png) [Corridor Crew](https://www.youtube.com/c/corridorcrew/videos)|
-|---|---|---|
+If all else fails, we will move on to <a href="https://colab.research.google.com/signup">Pro Collab</a> in conjunction
+with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Colab</a>
 
-|![](doc/youtube_icon.png) [DeepFaker](https://www.youtube.com/channel/UCkHecfDTcSazNZSKPEhtPVQ)|![](doc/youtube_icon.png) [DeepFakes in movie](https://www.youtube.com/c/DeepFakesinmovie/videos)|
-|---|---|
+## References
 
-|![](doc/youtube_icon.png) [DeepFakeCreator](https://www.youtube.com/channel/UCkNFhcYNLQ5hr6A6lZ56mKA)|![](doc/youtube_icon.png) [Jarkan](https://www.youtube.com/user/Jarkancio/videos)|
-|---|---|
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-# What can I do using DeepFaceLab?
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-## Replace the face
-
-<img src="doc/replace_the_face.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-## De-age the face
-
-</td></tr>
-
-<tr><td align="center" width="50%">
-
-<img src="doc/deage_0_1.jpg" align="center">
-
-</td>
-<td align="center" width="50%">
-
-<img src="doc/deage_0_2.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=Ddx5B-84ebo
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-## Replace the head
-
-</td></tr>
-
-
-<tr><td align="center" width="50%">
-
-<img src="doc/head_replace_0_1.jpg" align="center">
-
-</td>
-<td align="center" width="50%">
-
-<img src="doc/head_replace_0_2.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=xr5FHd0AdlQ
-
-</td></tr>
-
-<tr><td align="center" width="50%">
-
-<img src="doc/head_replace_1_1.jpg" align="center">
-
-</td>
-<td align="center" width="50%">
-
-<img src="doc/head_replace_1_2.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=RTjgkhMugVw
-
-</td></tr>
-
-<tr><td align="center" width="50%">
-
-<img src="doc/head_replace_2_1.jpg" align="center">
-
-</td>
-<td align="center" width="50%">
-
-<img src="doc/head_replace_2_2.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2  align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=R9f7WD0gKPo
-
-</td></tr>
-
-
-<tr><td colspan=2 align="center">
-
-## Manipulate politicians lips
-(voice replacement is not included!)
-(also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*)
-
-<img src="doc/political_speech2.jpg" align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=IvY-Abd2FfM
-
-<img src="doc/political_speech3.jpg" align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=ERQlaJ_czHU
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-# Deepfake native resolution progress
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-<img src="doc/deepfake_progress.png" align="center">
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-<img src="doc/make_everything_ok.png" align="center">
-
-Unfortunately, there is no "make everything ok" button in DeepFaceLab. You should spend time studying the workflow and growing your skills. A skill in programs such as *AfterEffects* or *Davinci Resolve* is also desirable.
-
-</td></tr>
-<tr><td colspan=2 align="center">
-
-## Mini tutorial
-
-<a href="https://www.youtube.com/watch?v=1smpMsfC3ls">
-
-<img src="doc/mini_tutorial.jpg" align="center">
-
-</a>
-
-</td></tr>
-<tr><td colspan=2 align="center">
+- <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/13238439/IBConsole+Command+Line+Options#IBConsoleCommandLineOptions-CommandLineOptions">IBConsole Command Line Options</a>
+- <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/9469970/Using+Submission+Interfaces#UsingSubmissionInterfaces-Example1">Using Submission Interfaces</a>
+- <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842170370/xgSubmit+Command">xgSubmit Commands</a>
+<b>Note:</b> Commands specified in the command file are executed independently, and not necessarily in the specified order. In order to create dependencies, use the /group argument in conjunction with the xgWait command in your script.
+- .bat files which utilize the "pause" command are to be replaced by the <a href="https://incredibuild.atlassian.net/wiki/spaces/IUM/pages/842629123/xgWait+Command">xgWait</a> command
 
 ## Releases
 
