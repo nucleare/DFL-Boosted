@@ -1,5 +1,6 @@
+In accordance with the request of the original creator, we shall make no effort to ruin the  code, respect the logic and pithiness by offerring our found solution 
+when or if it is discovered, and create no method of code abstraction that prevents others from understanding or creates more complication to the code's work itself.
+
 Please don't ruin the code and this good (as I think) architecture.
-
 Please follow the same logic and brevity/pithiness.
-
 Don't abstract the code into huge classes if you only win some lines of code in one place, because this can prevent programmers from understanding it quickly.
