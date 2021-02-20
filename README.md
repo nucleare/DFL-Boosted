@@ -172,25 +172,11 @@ Register github account and push "Star" button.
 <table align="center" border="0">
 <tr><td colspan=2 align="center">
 
-## Meme zone
+## Vision
 
 </td></tr>
 
-<tr><td align="center" width="50%">
 
-<img src="doc/meme1.jpg" align="center">
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="doc/meme2.jpg" align="center">
-
-</td></tr>
-
-<tr><td colspan=2>
-<img src="doc/meme3.jpg" align="center">
-</td></tr>
 
 <tr><td align="center" width="50%">
 
