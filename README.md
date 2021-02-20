@@ -155,13 +155,13 @@ You can collect faceset of any celebrity that can be used in DeepFaceLab and sha
 
 <tr><td colspan=2 align="center">
 
-### Star this repo
+### Star the main repo
 
 </td></tr>
 
 <tr><td colspan=2 align="center">
 
-Register github account and push "Star" button.
+Register github account and push the "Star" button over at iperov/DeepFaceLab.
 
 </td></tr>
 
@@ -178,7 +178,7 @@ Register github account and push "Star" button.
 
 
 
-<tr><td align="center" width="50%">
+<tr><td align="left" width="50%">
 
 ## You don't need deepfake detector. You need to stop lying. 
 
