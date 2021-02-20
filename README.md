@@ -193,7 +193,7 @@ V.I. Lenin
 
 <tr><td colspan=2 align="center">
 
-<sub>#deepfacelab #deepfakes #faceswap #face-swap #deep-learning #deeplearning #deep-neural-networks #deepface #deep-face-swap #fakeapp #fake-app #neural-networks #neural-nets #tensorflow #cuda #nvidia</sub>
+<sub>DeepFakes are used for entertainment purposes only and should never be created with the intention to deceive, mislead, or sway public opinion. </sub>
 
 </td></tr>
 
