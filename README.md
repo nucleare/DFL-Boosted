@@ -88,118 +88,11 @@ with the fine group of <a href="https://github.com/chervonij/DFL-Colab">DFL-Cola
 </td></tr>
 
 <tr><td align="right">
-<a href="https://tinyurl.com/y8lntghz">Windows (magnet link)</a>
-</td><td align="center">Last release. Use torrent client to download.</td></tr>
-
-<tr><td align="right">
-<a href="https://mega.nz/folder/Po0nGQrA#dbbttiNWojCt8jzD4xYaPw">Windows (Mega.nz)</a>
-</td><td align="center">Contains new and prev releases.</td></tr>
-
-<tr><td align="right">
-<a href="https://github.com/chervonij/DFL-Colab">Google Colab (github)</a>
-</td><td align="center">by @chervonij . You can train fakes for free using Google Colab.</td></tr>
-
-<tr><td align="right">
-<a href="https://github.com/nagadit/DeepFaceLab_Linux">Linux (github)</a>
-</td><td align="center">by @nagadit</td></tr>
-
-<tr><td align="right">
-<a href="https://github.com/elemantalcode/dfl">CentOS Linux (github)</a>
-</td><td align="center">May be outdated. By @elemantalcode</td></tr>
+<a href="https://github.com/iperov/DeepFaceLab">DeepFaceLab</a>
+</td><td align="center">Please visit the master branch for latest releases</td></tr>
 
 </table>
 
-<table align="center" border="0">
-
-<tr><td colspan=2 align="center">
-
-## Links
-
-</td></tr>
-
-<tr><td colspan=2 align="center">
-
-### Guides and tutorials
-
-</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-guide">DeepFaceLab guide</a>
-</td><td align="center">Main guide</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-2-0-guide?pid=18459#pid18459">Faceset creation guide</a>
-</td><td align="center">How to create the right faceset</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial">Google Colab guide</a>
-</td><td align="center">Guide how to train the fake on Google Colab</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-compositing-in-davinci-resolve-vegas-pro-and-after-effects">Compositing</a>
-</td><td align="center">To achieve the highest quality, compose deepfake manually in video editors such as Davinci Resolve or Adobe AfterEffects</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-discussion-tips-suggestions">Discussion and suggestions</a>
-</td><td align="center"></td></tr>
-
-<tr><td colspan=2 align="center">
-
-### Supplementary material
-
-</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/forum-celebrity-facesets">Ready to work facesets</a>
-</td><td align="center">Celebrity facesets made by community</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/forum-trained-models">Pretrained models</a>
-</td><td align="center">Pretrained models made by community</td></tr>
-
-<tr><td colspan=2 align="center">
-
-### Communication groups
-
-</td></tr>
-
-<tr><td align="right">
-<a href="https://discord.gg/S2h7kPySQp">Discord</a>
-</td><td align="center">Official discord channel. English / Russian.</td></tr>
-
-<tr><td align="right">
-<a href="https://t.me/joinchat/ElkhqlgJ0I5HhdJyFar80w">Telegram group</a>
-</td><td align="center">Official telegram group. English / Russian. For anonymous communication. Don't forget to hide your phone number</td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/forum-russian-community">Русский форум</a>
-</td><td align="center"></td></tr>
-
-<tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/">mrdeepfakes</a>
-</td><td align="center">the biggest NSFW English community</td></tr>
-
-<tr><td align="right">
-<a href="https://www.reddit.com/r/DeepFakesSFW/new/">reddit r/DeepFakesSFW/</a>
-</td><td align="center">Post your deepfakes there !</td></tr>
-
-<tr><td align="right">
-<a href="https://www.reddit.com/r/RUdeepfakes/new/">reddit r/RUdeepfakes/</a>
-</td><td align="center">Постим русские дипфейки сюда !</td></tr>
-
-<tr><td align="right">
-QQ 951138799
-</td><td align="center">中文 Chinese QQ group for ML/AI experts</td></tr>
-
-<tr><td align="right">
-<a href="https://www.dfldata.xyz">dfldata.xyz</a>
-</td><td align="center">中文交流论坛，免费软件教程、模型、人脸数据</td></tr>
-
-<tr><td align="right">
-<a href="https://www.deepfaker.xyz/">deepfaker.xyz</a>
-</td><td align="center">中文学习站（非官方)</td></tr>
-
-</table>
 
 <table align="center" border="0">
 
@@ -211,7 +104,25 @@ QQ 951138799
 
 <tr><td colspan=2 align="center">
 
-### Sponsor deepfake research and DeepFaceLab development.
+### Contribute to code!
+
+</td></tr>
+
+<tr><td colspan=2 align="left">
+I'm not a programmer and will be lost half the time. Experienced programmers will likely complete this in one-eighth of the time and effort.
+</td></tr>
+
+<tr><td colspan=2 align="center">
+<a href="https://streamlabs.com/chi11estpanda/tip">Donate via Streamlabs</a>
+</td></tr>
+
+<tr><td colspan=2 align="center">
+bitcoin:34DvVTep8a5UNjQtcVaSgbS6TUwmXowh8D
+</td></tr>
+
+<tr><td colspan=2 align="center">
+
+### Sponsor the original deepfake research and DeepFaceLab development.
 
 </td></tr>
 
